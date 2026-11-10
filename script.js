@@ -4,4 +4,4 @@ const tombolSapa = document.getElementById('sapaButton');
 tombolSapa.addEventListener('click'), function() {
   // 3. Jalankan kode ini ketika  tombol di-klik
   alert('Halo! Terima kasih sudah berkunjung ke web orang ganteng!');
-});
+};
